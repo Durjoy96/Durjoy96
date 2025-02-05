@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Durjoy96/Durjoy96/refs/heads/main/Md%20Durjoy.png"  />
-</div>
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/Durjoy96/Durjoy96/refs/heads/main/Md%20Durjoy.png)
 
 ###
 
@@ -55,6 +53,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Durjoy96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Durjoy96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Durjoy96&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  </a>
 </div>
 
 ###
