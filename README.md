@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">1.  I am exploring Next.js<br>2. Working on rokomari.com products price tracker</p>
+<p align="left">1.  I am exploring Next.js<br>2. Working on PodMemorize</p>
 
 ###
 
