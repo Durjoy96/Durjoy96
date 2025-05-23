@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/Durjoy96/Durjoy96/refs/heads/main/Md%20Durjoy.png)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/Durjoy96/Durjoy96/c422f31de120dba828f2589266623e636637bde0/Md%20Durjoy.png)
 
 ###
 
