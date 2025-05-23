@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">1.  I am exploring Next.js<br>2. Working on ProjuktiHunt</p>
+<p align="left">1.  I am exploring Next.js & Typescript <br>2. Working on ProjuktiHunt</p>
 
 ###
 
